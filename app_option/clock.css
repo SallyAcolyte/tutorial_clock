@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Iceland);
+
+body {
+	overflow: hidden;
+	width: 250px;
+	height: 70px;
+	margin: 0;
+	padding: 0;
+	-webkit-user-select: none;
+	-webkit-app-region: drag;
+}
+
+.content {
+	height: calc(100% - 10px);
+	border: 5px solid rgb(42, 42, 42);
+	border-left-width: 70px;
+	background-color: rgba(24, 24, 24, .7);
+	box-shadow: 0 0 8px 3px #000 inset;
+}
+
+.analog {
+	position: absolute;
+	left: 5;
+	float: left;
+	width: 60px;
+}
+
+.analog .pin {
+	position: absolute;
+}
+
+.digital .text {
+	font-family: "Iceland";
+	font-size: 25px;
+	line-height: 22px;
+	margin-top: 9px;
+	text-align: center;
+	color: #fff;
+	text-shadow: 1px 1px 3px #000;
+}
