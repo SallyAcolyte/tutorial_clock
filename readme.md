@@ -7,10 +7,10 @@ Electronによる、シンプルな時計ウィジェット
 ![スクリーンショット](./screenshot_app.png)  
 [Electronでデスクトップウィジェットを作るまで](#準備中)用のサンプルプログラム
 
-[実行可能なパッケージをダウンロード](#準備中)
+ダウンロード: [tutorial_clock_app.zip](https://github.com/SallyAcolyte/tutorial_clock/releases/download/0.0.1/tutorial_clock_app.zip)
 
 ## app_option
 ![スクリーンショット](./screenshot_app_option.png)  
 appにアナログ時計を追加したもの
 
-[実行可能なパッケージをダウンロード](#準備中)
+ダウンロード: [tutorial_clock_app_option.zip](https://github.com/SallyAcolyte/tutorial_clock/releases/download/0.0.1/tutorial_clock_app_option.zip)
