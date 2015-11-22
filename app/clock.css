@@ -1,14 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Iceland);
 
 body {
+	overflow: hidden;
 	margin: 0;
 	padding: 0;
 	border: 5px solid rgb(42, 42, 42);
 	background-color: rgba(24, 24, 24, .7);
 	box-shadow: 0 0 8px 3px #000 inset;
 
-	-webkit-user-select: none;
 	-webkit-app-region: drag;
+	-webkit-user-select: none;
 }
 
 #digital_clock {

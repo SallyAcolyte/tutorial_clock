@@ -6,8 +6,9 @@ body {
 	height: 70px;
 	margin: 0;
 	padding: 0;
-	-webkit-user-select: none;
+	
 	-webkit-app-region: drag;
+	-webkit-user-select: none;
 }
 
 .content {
