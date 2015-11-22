@@ -34,7 +34,7 @@ app.on("ready", function() {
 	var Tray = require("tray");
 	var nativeImage = require("native-image");
 
-	var trayIcon = new Tray(nativeImage.createFromPath(__dirname + "/img/icon_tray.png"));
+	var trayIcon = new Tray(nativeImage.createFromPath(__dirname + "/icon.png"));
 
 	// タスクトレイに右クリックメニューを追加
 	var contextMenu = Menu.buildFromTemplate([
