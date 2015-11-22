@@ -18,8 +18,7 @@ app.on("ready", function() {
 		"frame": false, 		// 枠の無いウィンドウ
 		"resizable": false, 	// ウィンドウのリサイズを禁止
 		"skip-taskbar": true, 	// タスクバーに表示しない
-		"show": false, 			// アプリ起動時にウィンドウを表示しない
-		"icon": __dirname + "/img/icon_app.png"
+		"show": false 			// アプリ起動時にウィンドウを表示しない
 	});
 
 	// index.html を開く
