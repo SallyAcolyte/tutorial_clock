@@ -5,7 +5,7 @@ Electronによる、シンプルな時計ウィジェット
 
 ## app
 ![スクリーンショット](./screenshot_app.png)  
-[Electronでデスクトップウィジェットを作るまで](#準備中)用のサンプルプログラム
+[Electronでデスクトップウィジェットを作るまで - Qiita](http://qiita.com/SallyAcolyte/items/94ed26ab62b8b32b1b2c)用のサンプルプログラム
 
 ダウンロード: [tutorial_clock_app.zip](https://github.com/SallyAcolyte/tutorial_clock/releases/download/0.0.1/tutorial_clock_app.zip)
 
