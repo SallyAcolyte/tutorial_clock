@@ -1,8 +1,6 @@
 # tutorial_clock
 Electronによる、シンプルな時計ウィジェット
 
-**リンク先準備中です**
-
 ## app
 ![スクリーンショット](./screenshot_app.png)  
 [Electronでデスクトップウィジェットを作るまで - Qiita](http://qiita.com/SallyAcolyte/items/94ed26ab62b8b32b1b2c)用のサンプルプログラム
